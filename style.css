@@ -282,7 +282,7 @@ header a:hover{   font-family: "Rowdies", sans-serif;
 .card1 {
   display: block;
   position: relative;
-  max-width: 262px;
+  max-width: 300px;
   background-color: #f2f8f9;
   border-radius: 4px;
   padding: 32px 24px;
@@ -343,7 +343,7 @@ header a:hover{   font-family: "Rowdies", sans-serif;
   justify-content: center;
   gap: 20px;
   margin: 60px auto;
-  max-width: 1200px;
+  max-width: 1300x;
 }
 
 
